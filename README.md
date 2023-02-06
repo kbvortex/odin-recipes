@@ -1,1 +1,3 @@
 # odin-recipes
+This is a project to demonstrate "all" of the HTML skills I have learnt, meaning
+hyper text markup language demonstrated with elements and attributes for instance <A> </A> anchor tags, Organized <OL> lists, <UL> Unorganized lists, boiler plate code such as <!DOCTYPE> and meta info for <head>, <img src="example.jpg" alt="example">) for example img being the element and src/alt being attributes.
